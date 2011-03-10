@@ -1,0 +1,18 @@
+@package XML2JSON
+@package_version 1.0
+@file_version 1.0
+@author Gingah
+@copyright Copyright (c) 2010 - 2011, Gingah
+@link https://github.com/Gingah/Quick-XML-to-JSON
+@license http://creativecommons.org/licenses/by-nc-sa/3.0/no/deed.en
+
+Quick XML to JSON (abbreviated XML2JSON) is a PHP-file for creating a JSON file 
+from a XML file. It uses Simplepie to read the XML/RSS data.
+
+Installation:
+1. Copy all the files (file.xml, xml2json.php and simplepie.inc) to a directory 
+on your webserver that supports PHP.
+2. Run xml2json.php (open it in your browser).
+3. A file called file.xml.js will now be located in the same directory, it 
+contains the JSON version of the XML you input.
+4. Customize the functionality of xml2json.php as you see fit.

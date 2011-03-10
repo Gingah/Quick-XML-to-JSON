@@ -1,0 +1,22 @@
+﻿<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>MangerCD</title>
+		<description>MangerFHS 09/10</description>
+		<item>
+			<title>A Fraction of Warfare</title>
+			<link>cd_a-fraction-of-warfare</link>
+			<description>Mats Kaarboe</description>
+			<pubDate>Mandag, 17. mai 2010 19:08:00 GMT+1</pubDate>
+			<media:content url="mp3/01_A_Fraction_of_Warfare.mp3" duration="144" />
+			<media:thumbnail url="mp3/01_A_Fraction_of_Warfare.png" width="512" height="288" />
+		</item>
+		<item>
+			<title>Kingdom of Misery</title>
+			<link>cd_kingdom-of-misery</link>
+			<description>Excalibur</description>
+			<pubDate>Mandag, 17. mai 2010 19:08:00 GMT+1</pubDate>
+			<media:content url="mp3/02_Kingdom_of_Misery.mp3" duration="284" />
+			<media:thumbnail url="mp3/02_Kingdom_of_Misery.png" width="512" height="288" />
+		</item>
+	</channel>
+</rss>
